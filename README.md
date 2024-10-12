@@ -1,4 +1,4 @@
-# Text-Recommendarion using Cosine Similarity Threshold
+# Text-Recommendation using Cosine Similarity Threshold
 
 # Dataset Information
 
