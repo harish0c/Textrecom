@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "670a2f893f7902934857d318"
+  },
+  "userId": {
+    "$oid": "670a30043f7902934857d319"
+  },
+  "postVisibility": "Public",
+  "category": [
+    ""
+  ],
+  "tags": [
+    ""
+  ],
+  "description": "Sony WF-C510 Review: Tiny earbuds, big theatre sound",
+  "like": [
+    {
+      "userId": {
+        "$oid": "670a32b63f7902934857d31a"
+      }
+    }
+  ],
+  "dislike": [
+    {
+      "userId": {
+        "$oid": "670a32db3f7902934857d31e"
+      }
+    }
+  ],
+  "comments": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670a33383f7902934857d320"
+  },
+  "userId": {
+    "$oid": "670a30043f7902934857d319"
+  },
+  "postVisibility": "Public",
+  "category": [
+    ""
+  ],
+  "tags": [
+    ""
+  ],
+  "description": "Tesla CEO Musk unveils 'Cybercab', 'Robovan' as focus shifts to automation",
+  "like": [
+    {
+      "userId": {
+        "$oid": "670a32b63f7902934857d31a"
+      }
+    }
+  ],
+  "dislike": [
+    {
+      "userId": {
+        "$oid": "670a32db3f7902934857d31e"
+      }
+    }
+  ],
+  "comments": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670a337a3f7902934857d321"
+  },
+  "userId": {
+    "$oid": "670a30043f7902934857d319"
+  },
+  "postVisibility": "Public",
+  "category": [
+    ""
+  ],
+  "tags": [
+    ""
+  ],
+  "description": "Elon Musk-owned Tesla shows off Optimus humanoid robots at ‘We Robot’ event",
+  "like": [
+    {
+      "userId": {
+        "$oid": "670a32b63f7902934857d31a"
+      }
+    }
+  ],
+  "dislike": [
+    {
+      "userId": {
+        "$oid": "670a32db3f7902934857d31e"
+      }
+    }
+  ],
+  "comments": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "1999-12-31T18:30:00.000Z"
+  }
+}]
